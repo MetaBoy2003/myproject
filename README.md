@@ -1,3 +1,5 @@
+Phase 3 and Phase 4 is already uploaded.
+
 packages required :
 
 create a environment variable and install all the packages name the environment variable as lib
@@ -13,6 +15,8 @@ install all libraires
 3.re already installed
 
 4.unicodedata already installed
+
+
 
 5.pandas command to install : pip install pandas
 
